@@ -1,0 +1,5 @@
+#ahorcado{
+    height: 273px; /*alto*/
+    width: 264px; /*ancho*/
+    background-image: url('./ahorcado.png'); /*como fondo la imagen*/
+}
